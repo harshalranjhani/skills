@@ -1,0 +1,17 @@
+{
+  "name": "@harshalranjhani/skills",
+  "private": true,
+  "description": "Personal agent skills (preview and more) for the open skills ecosystem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshalranjhani/skills.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "cursor",
+    "claude-code",
+    "codex"
+  ]
+}
